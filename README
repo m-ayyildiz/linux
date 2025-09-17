@@ -1,7 +1,7 @@
 Linux Kernel
 ============
 
-Burada Kernel geliştiricileri ve kullanıcıları için çeşitli kılavuzlar mevcuttur. 
+Burada çekirdek geliştiricileri ve kullanıcıları için çeşitli kılavuzlar mevcuttur. 
 Bu kılavuzlar HTML ve PDF gibi çeşitli formatlarda oluşturulabilir. 
 Lütfen önce Documentation/admin-guide/README.rst dosyasını okuyun.
 Belgeleri oluşturmak için, ``make htmldocs`` ya da
@@ -14,5 +14,5 @@ ve bunların birçoğu reStructuredText işaretleme gösterimini kullanır.
 
 Lütfen Documentation/process/changes.rst dosyasını okuyun! 
 Çünkü bu dosya, 
-Kernel'i oluşturma ve çalıştırma gereksinimlerini 
-ve Kernel'inizi yükseltirken ortaya çıkabilecek sorunlar hakkında bilgi içerir.
+Çekirdeği oluşturma ve çalıştırma gereksinimlerini 
+ve çekirdeğinizi yükseltirken ortaya çıkabilecek sorunlar hakkında bilgi içerir.
