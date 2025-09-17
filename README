@@ -1,18 +1,18 @@
-Linux kernel
+Linux Kernel
 ============
 
-There are several guides for kernel developers and users. These guides can
-be rendered in a number of formats, like HTML and PDF. Please read
-Documentation/admin-guide/README.rst first.
-
-In order to build the documentation, use ``make htmldocs`` or
-``make pdfdocs``.  The formatted documentation can also be read online at:
+Burada Kernel geliştiricileri ve kullanıcıları için çeşitli kılavuzlar mevcuttur. 
+Bu kılavuzlar HTML ve PDF gibi çeşitli formatlarda oluşturulabilir. 
+Lütfen önce Documentation/admin-guide/README.rst dosyasını okuyun.
+Belgeleri oluşturmak için, ``make htmldocs`` ya da
+``make pdfdocs``u kullanın. Biçimlendirilmiş belgeler ayrıca şu adreste çevrimiçi olarak da okuyabilirsiniz:
 
     https://www.kernel.org/doc/html/latest/
 
-There are various text files in the Documentation/ subdirectory,
-several of them using the reStructuredText markup notation.
+Documentation/ alt dizininde çeşitli metin dosyaları bulunur 
+ve bunların birçoğu reStructuredText işaretleme gösterimini kullanır.
 
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
+Lütfen Documentation/process/changes.rst dosyasını okuyun! 
+Çünkü bu dosya, 
+Kernel'i oluşturma ve çalıştırma gereksinimlerini 
+ve Kernel'inizi yükseltirken ortaya çıkabilecek sorunlar hakkında bilgi içerir.
